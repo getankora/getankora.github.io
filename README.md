@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 title: Инструкции Ankora
 description: Как начать пользоваться Ankora и добавить подписку в Happ, INCY или v2rayN на телефоне и компьютере.
 ---
