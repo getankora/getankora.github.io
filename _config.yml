@@ -2,3 +2,5 @@ title: Инструкции Ankora
 description: Подключение подписки Ankora в Happ, INCY и v2rayN на телефоне и компьютере
 lang: ru
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
